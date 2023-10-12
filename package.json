@@ -1,0 +1,30 @@
+{
+  "name": "eslint-examples",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnatali2211/7.2.InstallNode.js.git"
+  },
+  "keywords": [
+    "[\"node.js\"",
+    "\"netology\"",
+    "\"homeworkJS\"]"
+  ],
+  "author": "\"Nataliia Bulatovskaia <dnatali2211@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnatali2211/7.2.InstallNode.js/issues"
+  },
+  "homepage": "https://github.com/dnatali2211/7.2.InstallNode.js#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
